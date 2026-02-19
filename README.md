@@ -1,2 +1,2 @@
 # UGC.AI
-A Full Stack AL Short Video Ads Generator Using PERN Stack, Gemini API, SaaS Project
+A Full Stack AI Short Video Ads Generator Using PERN Stack, Gemini API, SaaS Project
